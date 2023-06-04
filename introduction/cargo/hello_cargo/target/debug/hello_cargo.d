@@ -1,0 +1,1 @@
+/Users/arbaaz./Documents/personal/rust_lang_practice/introduction/cargo/hello_cargo/target/debug/hello_cargo: /Users/arbaaz./Documents/personal/rust_lang_practice/introduction/cargo/hello_cargo/src/main.rs
